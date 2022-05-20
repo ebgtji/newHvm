@@ -1,6 +1,6 @@
 
 
-[![](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/ebgtji/newHvm/heroku.git)
+[![](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/ebgtji/newHvm)
 https://dashboard.heroku.com/new?template=
 
 ### heroku上部署v2ray
